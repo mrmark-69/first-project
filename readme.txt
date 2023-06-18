@@ -1,1 +1,1 @@
-make changes in readme file.
+Тренировочный проект для работы с GIT
